@@ -6,4 +6,13 @@
     "Description": "ВРЕМЕННО ЗАКРЫТ.",
     "LogoUrl": "https://i.ibb.co/zT5YrcrG/minecraft-title-1.jpg"
   }
+],
+[
+  {
+    "Name": "Example!",
+    "IP": "mc.example.com",
+    "Version": "1.20.1",
+    "Description": "Чтобы сюда попасть, пишите в тг @raytolfas_support.",
+    "LogoUrl": "https://cdn-icons-png.flaticon.com/512/1801/1801558.png"
+  }
 ]
