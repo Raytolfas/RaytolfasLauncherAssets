@@ -7,11 +7,18 @@
     "LogoUrl": "https://i.ibb.co/zT5YrcrG/minecraft-title-1.jpg"
   },
   {
-    "Name": "Hypixel",
-    "IP": "mc.hypixel.net",
-    "Version": "1.8.9-1.21+",
-    "Description": "Server",
-    "LogoUrl": "https://i1.sndcdn.com/artworks-qeIeYfUKMk2eIcpY-npIUAQ-t500x500.jpg"
+    "Name": "Example!",
+    "IP": "mc.example.com",
+    "Version": "1.20.1",
+    "Description": "Чтобы сюда попасть, пишите в тг @raytolfas_support.",
+    "LogoUrl": "https://cdn-icons-png.flaticon.com/512/1801/1801558.png"
+  },
+  {
+    "Name": "Example!",
+    "IP": "mc.example.com",
+    "Version": "1.20.1",
+    "Description": "Чтобы сюда попасть, пишите в тг @raytolfas_support.",
+    "LogoUrl": "https://cdn-icons-png.flaticon.com/512/1801/1801558.png"
   },
   {
     "Name": "Example!",
