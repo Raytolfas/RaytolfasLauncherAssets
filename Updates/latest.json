@@ -1,5 +1,5 @@
 {
-  "Version": "0.0.3",
-  "DownloadUrl": "https://github.com/Raytolfas/RaytolfasLauncher/releases/download/0.0.3/RaytolfasLauncher.exe",
-  "Changelog": "Изменения можно посмотреть на странице релиза."
+  "Version": "0.0.3.1",
+  "DownloadUrl": "https://github.com/Raytolfas/RaytolfasLauncher/releases/download/0.0.3.1/RaytolfasLauncher.exe",
+  "Changelog": "Fixed *Java Virtual Machine* error"
 }
